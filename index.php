@@ -1,6 +1,6 @@
 <?php
 
 
-echo "ola brasileiro 1"
+echo "ola brasileiro"
 
 ?>
